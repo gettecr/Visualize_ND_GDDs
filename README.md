@@ -40,6 +40,9 @@ Project Organization
     ├── stations.csv       <- location info for each NDAWN weather station
     └── NDcounties.csv     <- List of counties in North Dakota 
 
-
+Visualization
 --------
+![Accumulated GDDs](./maps/AGDD/gdds_ND_2017.gif)
+
+![Delta GDDs](./maps/Delta/delta_gdds_ND_2017.gif )
 
